@@ -10,4 +10,6 @@ var inputstream = '{"beers":[' +
 '{"brand":"Tusker Light","country":"Kenya", "abv":"4.0%", "type":"Lite Lager" , "description":"dolor si" },' +
 '{"brand":"Tusker Malt","country":"Kenya", "abv":"5.0%", "type":"Premium Lager" , "description":"dolor si" },' +
 '{"brand":"White Cap","country":"Kenya", "abv":"4.2%", "type":"Pale Lager" , "description":"dolor si" },' +
+'{"brand":"Budweiser","country":"USA", "abv":"4.2%", "type":"Pale Lager" , "description":"Akin to horse urine" },' +
+'{"brand":"Miller Lite","country":"USA", "abv":"4.2%", "type":"Lite Lager" , "description":"See Budweiser. Budweiser consumed and reurinated." },' +
 '{"brand":"test3","country":"Italy", "description":"amet" }]}';
