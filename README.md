@@ -1,5 +1,5 @@
 # Amber Pages
-Amber pages is an open-source beers directory. It lists beers with useful information for the common person who is travelling and just wants to grab a decent, social pint.
+Amber pages is an open-source beers directory. It lists beers with useful information for the common person who is travelling and just wants to grab a decent, social pint. Amber pages is powered by the [Jalibut](https://github.com/darshandsoni/jalibut) framework.
 
 ## Why?
 You find yourself in random places when you travel and you just want to have a social pint at a local pub. You can start searching for stuff online, but you quickly run into opening a tonne of tabs on your poor mobile device, or have to mentally process largely varying information.
